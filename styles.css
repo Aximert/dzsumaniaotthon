@@ -1,0 +1,56 @@
+body {
+  text-align: center;
+}
+.colored-section {
+  background-color: #207561;
+}
+.cimsor{
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.colored-section {
+  font-family: 'Bangers', cursive;
+}
+.container-fluid{
+  padding: 0 15%;
+}
+.navbar {
+  padding: 0 0 0.5rem;
+}
+.logopicture {
+  border-radius: 50%;
+  width: 150px;
+  padding-right: 15px;
+}
+
+.intro {
+  background-image: url("images/cartoonleaves.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 120%;
+  width: 100%;
+   margin: 0;
+   padding: 10%;
+   padding-top: 5%;
+   padding-bottom: 5%;
+   top: 0;
+   left: 0;
+}
+.introtext {
+  font-family: 'Josefin Sans', sans-serif;
+  color: white;
+  padding-top: 20%;
+}
+ #footer {
+   background-color: #207561;
+   margin:0
+ }
+ .social-icon {
+   margin: 25px 10px;
+ }
+ .video {
+   border-radius: 15px;
+overflow: hidden;
+z-index: 1;
+height: 370px;
+width: 600px;
+ }
